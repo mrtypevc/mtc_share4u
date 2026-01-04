@@ -1,0 +1,22 @@
+total 128
+drwxr-xr-x 11 root root  4096 Jan  4 12:42 .
+drwxr-xr-x  4 user user  4096 Jan  4 11:04 ..
+-rw-r--r--  1 root root  1959 Jan  4 11:58 .htaccess
+-rw-r--r--  1 root root  2059 Jan  4 12:24 DEPLOYMENT.md
+-rw-r--r--  1 root root  4034 Jan  4 12:08 QUICKSTART.md
+-rw-r--r--  1 root root  7406 Jan  4 11:57 README.md
+drwxr-xr-x  2 root root  4096 Jan  4 11:04 admin
+drwxr-xr-x  2 root root  4096 Jan  4 11:57 api
+drwxr-xr-x  5 root root  4096 Jan  4 12:41 assets
+drwxr-xr-x  2 root root  4096 Jan  4 11:05 config
+drwxr-xr-x  2 root root  4096 Jan  4 11:26 core
+-rw-r--r--  1 root root 16738 Jan  4 11:47 create.php
+drwxr-xr-x  2 root root  4096 Jan  4 11:04 database
+drwxr-xr-x  3 root root  4096 Jan  4 12:42 includes
+-rw-r--r--  1 root root  7176 Jan  4 11:32 index.php
+-rw-r--r--  1 root root  8039 Jan  4 11:43 login.php
+-rw-r--r--  1 root root 14811 Jan  4 11:55 profile.php
+drwxr-xr-x  4 root root  4096 Jan  4 12:42 public
+-rw-r--r--  1 root root  7611 Jan  4 11:51 search.php
+-rwxr-xr-x  1 root root  1029 Jan  4 12:06 start.sh
+drwxr-xr-x  6 root root  4096 Jan  4 12:41 uploads

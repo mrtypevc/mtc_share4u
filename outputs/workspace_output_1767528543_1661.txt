@@ -1,0 +1,40 @@
+.
+├── QUICKSTART.md
+├── README.md
+├── admin
+├── config
+│   └── config.php
+├── core
+│   ├── AdminPanel.php
+│   ├── Auth.php
+│   ├── Database.php
+│   ├── InteractionManager.php
+│   ├── PostManager.php
+│   └── Security.php
+├── database
+├── includes
+│   └── functions.php
+├── public
+│   ├── api
+│   │   ├── delete-post.php
+│   │   ├── follow.php
+│   │   ├── like.php
+│   │   └── track-download.php
+│   ├── assets
+│   │   ├── css
+│   │   ├── images
+│   │   └── js
+│   ├── create.php
+│   ├── includes
+│   │   └── post-card.php
+│   ├── index.php
+│   ├── login.php
+│   ├── profile.php
+│   ├── search.php
+│   └── uploads
+│       ├── files
+│       ├── images
+│       └── videos
+└── start.sh
+
+17 directories, 21 files
